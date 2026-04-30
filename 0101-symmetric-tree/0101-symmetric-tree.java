@@ -27,3 +27,13 @@ class Solution {
         return isMirror(root.left,root.right);
     }
 }
+
+//think it as 
+// for every pair in sysmtry from both sides we go check recursively and if both reaches null at same time we return true 
+//and that true is going to store at that position and then will check for  the other part in recursive way unitl it gets its true we cant return true
+
+// just sees the ex and see rootleft and rootright
+//in recursive way 
+// return false if u reach one null 
+//return false if not equal
+//resturn true if reach at same point
