@@ -30,3 +30,6 @@ su(root.right,false,sum);
       return sum[0];
     }
 }
+
+
+//pass flage to get a sppecific sum
