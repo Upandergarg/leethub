@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Upandergarg/leethub/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Upandergarg/leethub/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Upandergarg/leethub/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
