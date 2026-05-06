@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Upandergarg/leethub/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Upandergarg/leethub/tree/master/0061-rotate-list) |
 ## Binary Search
 |  |
@@ -125,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Upandergarg/leethub/tree/master/0222-count-complete-tree-nodes) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Upandergarg/leethub/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Upandergarg/leethub/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
