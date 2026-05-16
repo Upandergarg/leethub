@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Upandergarg/leethub/tree/master/0002-add-two-numbers) |
+| [0343-integer-break](https://github.com/Upandergarg/leethub/tree/master/0343-integer-break) |
 ## Recursion
 |  |
 | ------- |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Upandergarg/leethub/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0343-integer-break](https://github.com/Upandergarg/leethub/tree/master/0343-integer-break) |
 <!---LeetCode Topics End-->
