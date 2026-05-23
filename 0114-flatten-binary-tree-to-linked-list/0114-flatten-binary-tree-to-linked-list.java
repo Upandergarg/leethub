@@ -15,18 +15,21 @@
  */
 class Solution {
     public void flatten(TreeNode root) {
-        if(root==null) return;
-        Stack<TreeNode> s= new Stack<>();
-        s.push(root);
-        while(!s.isEmpty()){
-            TreeNode cur= s.pop();
-            if(cur.right!=null) s.push(cur.right);
-            if(cur.left!=null) s.push(cur.left);
-            if(!s.isEmpty()){
-                cur.right=s.peek();
-            }
-            cur.left=null;
-        }
+       TreeNode cur= root;
+while(cur!=null){
+    if(cur.left!=null){
+        TreeNode prv= cur.left;
+    while(prv.right!=null){
+        prv=prv.right;
+    }
+    prv.right=cur.right;
+    cur.right=cur.left;
+    }
+    cur.left=null;
+    cur=cur.right;
+}
      
     }
 }
+
+//Mories Traversal
