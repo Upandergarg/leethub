@@ -14,19 +14,32 @@
  * }
  */
 class Solution {
-    int cnt=0;
-    void fn(TreeNode root,int k,int ans[]){
-        if(root==null) return;
-        fn(root.left,k,ans);
-        cnt++;
-        if(cnt==k) {
-            ans[0]=root.val;
-        }
-        fn(root.right,k,ans);
-    }
     public int kthSmallest(TreeNode root, int k) {
-       int [] ans= new int[1];
-    fn(root,k,ans);
-    return ans[0];
+        int cnt=0;
+        TreeNode cur=root;
+        while(cur!=null){
+            if(cur.left==null){
+                cnt++;
+                if(cnt==k) return cur.val;
+                cur=cur.right;
+            }
+            else{
+                TreeNode prv= cur.left;
+                while(prv.right!=null && prv.right!=cur){
+                    prv=prv.right;
+                }
+                if(prv.right==null){
+                    prv.right=cur;
+                    cur=cur.left;
+                }
+                else{
+                    prv.right=null;
+                    cnt++;
+                    if(cnt==k) return cur.val;
+                    cur=cur.right;
+                }
+            }
+        }
+        return -1;
     }
 }
