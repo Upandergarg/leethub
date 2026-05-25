@@ -13,6 +13,11 @@
  *     }
  * }
  */
+
+
+
+ //go like put all left in stack in , then after getting next put  right's left in the stack;
+ // as sstack will store it in inordere shit
 class BSTIterator {
     Stack<TreeNode> s= new Stack<>();
     public BSTIterator(TreeNode root) {
