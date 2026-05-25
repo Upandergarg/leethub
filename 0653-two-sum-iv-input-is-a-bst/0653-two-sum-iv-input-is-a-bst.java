@@ -53,3 +53,8 @@ class Solution {
         return false;
     }
 }
+
+
+
+//get next and belooww in one traversal and then do 2 pointer
+//make sure to set flage before push
