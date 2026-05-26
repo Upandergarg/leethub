@@ -41,3 +41,6 @@ return new w(Integer.MIN_VALUE,Integer.MAX_VALUE,0);
         return ans>0?ans:0;
     }
 }
+
+
+///same as largert bst in bt, but here sum should be global and u should maintain it , rest same
