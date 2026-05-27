@@ -145,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Upandergarg/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Upandergarg/leethub/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Upandergarg/leethub/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Upandergarg/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Upandergarg/leethub/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
 |  |
 | ------- |
