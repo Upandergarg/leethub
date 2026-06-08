@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Upandergarg/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Upandergarg/leethub/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Upandergarg/leethub/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
 |  |
