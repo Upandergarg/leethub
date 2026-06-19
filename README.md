@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Upandergarg/leethub/tree/master/0002-add-two-numbers) |
 | [0343-integer-break](https://github.com/Upandergarg/leethub/tree/master/0343-integer-break) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Upandergarg/leethub/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Upandergarg/leethub/tree/master/0222-count-complete-tree-nodes) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Upandergarg/leethub/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
 | ------- |
