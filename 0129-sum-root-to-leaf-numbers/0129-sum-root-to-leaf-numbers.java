@@ -14,22 +14,22 @@
  * }
  */
 class Solution {
-    void fn(TreeNode root,List ans, String s){
+    void fn(TreeNode root,List ans, int s){
         if(root==null) return;
 if(root.left==null && root.right==null){
-ans.add(s+root.val);
+ans.add(s*10+root.val);
 return;
 }
-fn(root.left,ans,s+root.val);
-fn(root.right,ans,s+root.val);
+fn(root.left,ans,s*10+root.val);
+fn(root.right,ans,s*10+root.val);
 
     }
     public int sumNumbers(TreeNode root) {
-        List<String> ans= new ArrayList<>();
-        fn(root,ans,"");
+        List<Integer> ans= new ArrayList<>();
+        fn(root,ans,0);
         int a=0;
-        for(String s: ans){
-a+=Integer.parseInt(s);
+        for(Integer s: ans){
+a+=s;
         }
         return a;
 
