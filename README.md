@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Upandergarg/leethub/tree/master/0002-add-two-numbers) |
 | [0343-integer-break](https://github.com/Upandergarg/leethub/tree/master/0343-integer-break) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Upandergarg/leethub/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Upandergarg/leethub/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Upandergarg/leethub/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/Upandergarg/leethub/tree/master/0343-integer-break) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Upandergarg/leethub/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Upandergarg/leethub/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
