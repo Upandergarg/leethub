@@ -19,7 +19,7 @@ class Solution {
         int n = image.length;
         int m = image[0].length;
 
-        // If the new color is same as the old color, no need to do anything.
+        
         if (image[sr][sc] == color)
             return image;
 
