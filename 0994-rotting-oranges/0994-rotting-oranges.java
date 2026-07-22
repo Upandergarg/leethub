@@ -1,4 +1,5 @@
 class Solution {
+    //pair making
     class pair{
         int row;
         int col;
@@ -9,6 +10,7 @@ class Solution {
             this.t=t;
         }
     }
+
     public int orangesRotting(int[][] grid) {
         int N=grid.length;
         int M=grid[0].length;
@@ -17,6 +19,8 @@ class Solution {
         int [] ncol= {0,-1,0,1}; 
         int fresh=0;
         Queue<pair> q= new LinkedList<>();
+
+        //initializing
         for(int i=0; i<N; i++){
             for(int j=0; j<M; j++){
                 if(grid[i][j]==2){
@@ -27,17 +31,21 @@ class Solution {
                 vis[i][j]=0;
             }
         }
+        //checking time , it takes when we travel
         int time=0;
         int cnt=0;
         while(!q.isEmpty()){
             int r = q.peek().row;
             int c = q.peek().col;
             int ti=q.peek().t;
+
+            //max will take the max one out of them , as it is time will take simultaneosuly
             time= Math.max(ti,time);
             q.poll();
             for(int i=0; i<4; i++){
                 int ro = r + nrow[i];
                 int co = c + ncol[i];
+                //only mark vis which we have bussiness with/
                 if(ro>=0 && ro<N && co>=0 && co <M && vis[ro][co]==0 && grid[ro][co]==1){
                     q.add( new pair(ro,co,ti+1));
                     vis[ro][co]=1;
