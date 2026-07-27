@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Upandergarg/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Upandergarg/leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Upandergarg/leethub/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Upandergarg/leethub/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Upandergarg/leethub/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Upandergarg/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Upandergarg/leethub/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Upandergarg/leethub/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
