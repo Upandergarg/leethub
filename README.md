@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Upandergarg/leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Upandergarg/leethub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Upandergarg/leethub/tree/master/0222-count-complete-tree-nodes) |
+| [0493-reverse-pairs](https://github.com/Upandergarg/leethub/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Upandergarg/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Upandergarg/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Upandergarg/leethub/tree/master/0152-maximum-product-subarray) |
+| [0493-reverse-pairs](https://github.com/Upandergarg/leethub/tree/master/0493-reverse-pairs) |
 | [0733-flood-fill](https://github.com/Upandergarg/leethub/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Upandergarg/leethub/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Upandergarg/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Upandergarg/leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Upandergarg/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0493-reverse-pairs](https://github.com/Upandergarg/leethub/tree/master/0493-reverse-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Upandergarg/leethub/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/Upandergarg/leethub/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -317,4 +321,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Upandergarg/leethub/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Upandergarg/leethub/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Upandergarg/leethub/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Upandergarg/leethub/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
