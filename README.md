@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Upandergarg/leethub/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Upandergarg/leethub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Upandergarg/leethub/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Upandergarg/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Upandergarg/leethub/tree/master/0733-flood-fill) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Upandergarg/leethub/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Upandergarg/leethub/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Upandergarg/leethub/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/Upandergarg/leethub/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Upandergarg/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Upandergarg/leethub/tree/master/0733-flood-fill) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Upandergarg/leethub/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Upandergarg/leethub/tree/master/0547-number-of-provinces) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Upandergarg/leethub/tree/master/0547-number-of-provinces) |
 | [1192-critical-connections-in-a-network](https://github.com/Upandergarg/leethub/tree/master/1192-critical-connections-in-a-network) |
 ## Biconnected Component
 |  |
