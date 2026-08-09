@@ -1,66 +1,26 @@
-import java.util.*;
-
 class Solution {
+    void dfs(int sr,int sc,int[][] image,int[][] ans,int inicolor,int color,int[] delrow, int[] delcol,int n,int m){
+        ans[sr][sc]=color;
 
-    class Pair {
-        int r;
-        int c;
-        int oc;
-
-        Pair(int r, int c, int oc) {
-            this.r = r;
-            this.c = c;
-            this.oc = oc;
+        for(int i=0; i<4; i++){
+            int nrow= sr+delrow[i];
+            int ncol= sc+delcol[i];
+            if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && ans[nrow][ncol]==inicolor && ans[nrow][ncol]!=color ){
+                dfs(nrow,ncol,image,ans,inicolor,color,delrow,delcol,n,m);
+            }
+        
         }
     }
-
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        int [][] ans= image;
+        int n=image.length;
+        int m= image[0].length;
+          int [] delrow={-1,0,1,0};
+        int [] delcol={0,1,0,-1};
+       
+        int inicolor=image[sr][sc];
 
-        int n = image.length;
-        int m = image[0].length;
-
-        
-        if (image[sr][sc] == color)
-            return image;
-
-        boolean[][] vis = new boolean[n][m];
-
-        Queue<Pair> q = new LinkedList<>();
-
-        int originalColor = image[sr][sc];
-        q.add(new Pair(sr, sc, originalColor));
-
-        vis[sr][sc] = true;
-        image[sr][sc] = color;
-
-        int[] row = {-1, 0, 1, 0};
-        int[] col = {0, -1, 0, 1};
-
-        while (!q.isEmpty()) {
-
-            Pair curr = q.poll();
-
-            int r = curr.r;
-            int c = curr.c;
-            int oc = curr.oc;
-
-            for (int i = 0; i < 4; i++) {
-
-                int nr = r + row[i];
-                int nc = c + col[i];
-
-                if (nr >= 0 && nr < n &&
-                    nc >= 0 && nc < m &&
-                    !vis[nr][nc] &&
-                    image[nr][nc] == oc) {
-
-                    vis[nr][nc] = true;
-                    image[nr][nc] = color;
-                    q.add(new Pair(nr, nc, oc));
-                }
-            }
-        }
-
-        return image;
+        dfs(sr,sc,image,ans,inicolor,color,delrow,delcol,n,m);
+        return ans;
     }
 }
