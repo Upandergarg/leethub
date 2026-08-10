@@ -1,61 +1,54 @@
 class Solution {
-    //pair making
-    class pair{
-        int row;
-        int col;
-        int t;
-        pair(int row,int col, int t){
-            this.row=row;
-            this.col=col;
-            this.t=t;
-        }
+   class tuple{
+    int row;
+    int col;
+    int time;
+    tuple(int row,int col, int time){
+        this.row=row;
+        this.col=col;
+        this.time=time;
     }
-
+   }
     public int orangesRotting(int[][] grid) {
-        int N=grid.length;
-        int M=grid[0].length;
-        int [][] vis= new int[N][M];
-        int [] nrow= {-1,0,1,0};
-        int [] ncol= {0,-1,0,1}; 
+        Queue<tuple> q= new LinkedList<>();
+        int n= grid.length;
+        int m=grid[0].length;
         int fresh=0;
-        Queue<pair> q= new LinkedList<>();
-
-        //initializing
-        for(int i=0; i<N; i++){
-            for(int j=0; j<M; j++){
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
                 if(grid[i][j]==2){
-                    vis[i][j]=1;
-                    q.add(new pair(i,j,0));
+                    q.add(new tuple(i,j,0));
                 }
-                if(grid[i][j]==1) fresh++;
-                vis[i][j]=0;
+                else if(grid[i][j]==1) fresh++;
             }
         }
-        //checking time , it takes when we travel
-        int time=0;
+        
         int cnt=0;
+        int ans=0;
+        int [] delrow= {-1,0,1,0};
+        int [] delcol= {0,1,0,-1};
         while(!q.isEmpty()){
-            int r = q.peek().row;
-            int c = q.peek().col;
-            int ti=q.peek().t;
-
-            //max will take the max one out of them , as it is time will take simultaneosuly
-            time= Math.max(ti,time);
-            q.poll();
+            tuple t= q.poll();
+            int row=t.row;
+            int col=t.col;
+            int time=t.time;
+          
+            ans= Math.max(time,ans);
             for(int i=0; i<4; i++){
-                int ro = r + nrow[i];
-                int co = c + ncol[i];
-                //only mark vis which we have bussiness with/
-                if(ro>=0 && ro<N && co>=0 && co <M && vis[ro][co]==0 && grid[ro][co]==1){
-                    q.add( new pair(ro,co,ti+1));
-                    vis[ro][co]=1;
+                int nrow= row+delrow[i];
+                int ncol= col+delcol[i];
+                
+                if(nrow>=0 && nrow<n &&ncol>=0 && ncol<m && grid[nrow][ncol]==1){
+                  
                     cnt++;
+                    grid[nrow][ncol]=2;
+                    q.add(new tuple(nrow,ncol,time+1));
+                      System.out.println(q.peek().time);
                 }
-           
             }
-
+            
         }
-        if(cnt!=fresh) return -1;
-        else return time;
+        if(cnt==fresh) return ans;
+        else return -1;
     }
 }
