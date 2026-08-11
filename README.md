@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Upandergarg/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Upandergarg/leethub/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Upandergarg/leethub/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/Upandergarg/leethub/tree/master/1192-critical-connections-in-a-network) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Upandergarg/leethub/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Upandergarg/leethub/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Upandergarg/leethub/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Upandergarg/leethub/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Upandergarg/leethub/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Upandergarg/leethub/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Hash Table
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Upandergarg/leethub/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Upandergarg/leethub/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Upandergarg/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/Upandergarg/leethub/tree/master/1020-number-of-enclaves) |
 | [1288-remove-covered-intervals](https://github.com/Upandergarg/leethub/tree/master/1288-remove-covered-intervals) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Upandergarg/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Upandergarg/leethub/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Upandergarg/leethub/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Upandergarg/leethub/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Upandergarg/leethub/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Upandergarg/leethub/tree/master/1020-number-of-enclaves) |
 ## Number Theory
 |  |
 | ------- |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Upandergarg/leethub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Upandergarg/leethub/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Upandergarg/leethub/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Upandergarg/leethub/tree/master/1020-number-of-enclaves) |
 ## Binary Indexed Tree
 |  |
 | ------- |
