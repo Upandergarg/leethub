@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Upandergarg/leethub/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Upandergarg/leethub/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Upandergarg/leethub/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Upandergarg/leethub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Upandergarg/leethub/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Upandergarg/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Upandergarg/leethub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Upandergarg/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Upandergarg/leethub/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Upandergarg/leethub/tree/master/2574-left-and-right-sum-differences) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Upandergarg/leethub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Greedy
 |  |
 | ------- |
