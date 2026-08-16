@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Upandergarg/leethub/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Upandergarg/leethub/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/Upandergarg/leethub/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Upandergarg/leethub/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Upandergarg/leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Upandergarg/leethub/tree/master/0200-number-of-islands) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Upandergarg/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Upandergarg/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Upandergarg/leethub/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Upandergarg/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Upandergarg/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Upandergarg/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Upandergarg/leethub/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Upandergarg/leethub/tree/master/0014-longest-common-prefix) |
+| [0127-word-ladder](https://github.com/Upandergarg/leethub/tree/master/0127-word-ladder) |
 | [1189-maximum-number-of-balloons](https://github.com/Upandergarg/leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Upandergarg/leethub/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Upandergarg/leethub/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -407,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Upandergarg/leethub/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Upandergarg/leethub/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
