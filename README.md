@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Upandergarg/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Upandergarg/leethub/tree/master/1189-maximum-number-of-balloons) |
+| [1366-rank-teams-by-votes](https://github.com/Upandergarg/leethub/tree/master/1366-rank-teams-by-votes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Upandergarg/leethub/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Upandergarg/leethub/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Upandergarg/leethub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Upandergarg/leethub/tree/master/0014-longest-common-prefix) |
 | [0127-word-ladder](https://github.com/Upandergarg/leethub/tree/master/0127-word-ladder) |
 | [1189-maximum-number-of-balloons](https://github.com/Upandergarg/leethub/tree/master/1189-maximum-number-of-balloons) |
+| [1366-rank-teams-by-votes](https://github.com/Upandergarg/leethub/tree/master/1366-rank-teams-by-votes) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Upandergarg/leethub/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Upandergarg/leethub/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Upandergarg/leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Upandergarg/leethub/tree/master/1288-remove-covered-intervals) |
+| [1366-rank-teams-by-votes](https://github.com/Upandergarg/leethub/tree/master/1366-rank-teams-by-votes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Upandergarg/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Upandergarg/leethub/tree/master/1020-number-of-enclaves) |
 | [1288-remove-covered-intervals](https://github.com/Upandergarg/leethub/tree/master/1288-remove-covered-intervals) |
+| [1366-rank-teams-by-votes](https://github.com/Upandergarg/leethub/tree/master/1366-rank-teams-by-votes) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Upandergarg/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Upandergarg/leethub/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Upandergarg/leethub/tree/master/2574-left-and-right-sum-differences) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Upandergarg/leethub/tree/master/1189-maximum-number-of-balloons) |
+| [1366-rank-teams-by-votes](https://github.com/Upandergarg/leethub/tree/master/1366-rank-teams-by-votes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
