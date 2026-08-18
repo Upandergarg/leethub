@@ -1,35 +1,54 @@
 class Solution {
-
     public String rankTeams(String[] votes) {
-        int n = votes[0].length();
-        int[][] rank = new int[26][n];
 
-        //making rank matrix
-        for (String s : votes) {
-            for (int j = 0; j < s.length(); j++) {
-                rank[s.charAt(j) - 'A'][j]++;
+        Map<Character, int[]> rankByEachCharacterMap = new HashMap<>();
+
+        for (String vote : votes) {
+            for (int i = 0; i < vote.length(); i++) {
+                char currMember = vote.charAt(i);
+
+                rankByEachCharacterMap.putIfAbsent(
+                    currMember,
+                    new int[vote.length()]
+                );
+
+                int[] voteCount = rankByEachCharacterMap.get(currMember);
+                voteCount[i]++;
             }
         }
-        Character[] teams = new Character[n];
-        for (int i = 0; i < n; i++) {
-            teams[i] = votes[0].charAt(i);
-        }
 
-        Arrays.sort(teams, (a, b) -> {
-            int x = a - 'A';
-            int y = b - 'A';
-            for (int pos = 0; pos < n; pos++) {
-                if (rank[x][pos] != rank[y][pos]) {
-                    return rank[y][pos] - rank[x][pos];
+        // Keys - sort, Max heap - PQ, TreeMap - SortOrder
+        PriorityQueue<Map.Entry<Character, int[]>> pq =
+            new PriorityQueue<>((e1, e2) -> {
+
+                int[] candidateOneVotes = e1.getValue();
+                int[] candidateTwoVotes = e2.getValue();
+
+                int totalVotes = candidateOneVotes.length;
+
+                for (int i = 0; i < totalVotes; i++) {
+                    if (candidateOneVotes[i] != candidateTwoVotes[i]) {
+                        return Integer.compare(
+                            candidateTwoVotes[i],
+                            candidateOneVotes[i]
+                        );
+                    }
                 }
-            }
-            return a - b;
-        });
+
+                return Character.compare(e1.getKey(), e2.getKey());
+            });
+
+        for (Map.Entry<Character, int[]> e :
+                rankByEachCharacterMap.entrySet()) {
+            pq.add(e);
+        }
 
         StringBuilder ans = new StringBuilder();
-        for (char c : teams) {
-            ans.append(c);
+
+        while (!pq.isEmpty()) {
+            ans.append(pq.poll().getKey());
         }
+
         return ans.toString();
     }
 }
