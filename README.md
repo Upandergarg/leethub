@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Upandergarg/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Upandergarg/leethub/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Upandergarg/leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Upandergarg/leethub/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Upandergarg/leethub/tree/master/1020-number-of-enclaves) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Upandergarg/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Upandergarg/leethub/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Upandergarg/leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Upandergarg/leethub/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Upandergarg/leethub/tree/master/0994-rotting-oranges) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Upandergarg/leethub/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/Upandergarg/leethub/tree/master/0343-integer-break) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Upandergarg/leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Upandergarg/leethub/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Upandergarg/leethub/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Upandergarg/leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Upandergarg/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Upandergarg/leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Upandergarg/leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Upandergarg/leethub/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Upandergarg/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Upandergarg/leethub/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Upandergarg/leethub/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Upandergarg/leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Upandergarg/leethub/tree/master/0802-find-eventual-safe-states) |
 | [1192-critical-connections-in-a-network](https://github.com/Upandergarg/leethub/tree/master/1192-critical-connections-in-a-network) |
 ## Biconnected Component
@@ -439,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Upandergarg/leethub/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Upandergarg/leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
