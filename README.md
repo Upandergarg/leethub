@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Upandergarg/leethub/tree/master/0002-add-two-numbers) |
 | [0149-max-points-on-a-line](https://github.com/Upandergarg/leethub/tree/master/0149-max-points-on-a-line) |
 | [0343-integer-break](https://github.com/Upandergarg/leethub/tree/master/0343-integer-break) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Upandergarg/leethub/tree/master/0380-insert-delete-getrandom-o1) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Upandergarg/leethub/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Upandergarg/leethub/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Upandergarg/leethub/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Upandergarg/leethub/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Upandergarg/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Upandergarg/leethub/tree/master/0149-max-points-on-a-line) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Upandergarg/leethub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Upandergarg/leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Upandergarg/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Upandergarg/leethub/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Upandergarg/leethub/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Upandergarg/leethub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Upandergarg/leethub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0493-reverse-pairs](https://github.com/Upandergarg/leethub/tree/master/0493-reverse-pairs) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Upandergarg/leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0733-flood-fill](https://github.com/Upandergarg/leethub/tree/master/0733-flood-fill) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Upandergarg/leethub/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Upandergarg/leethub/tree/master/0173-binary-search-tree-iterator) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Upandergarg/leethub/tree/master/0380-insert-delete-getrandom-o1) |
 ## Iterator
 |  |
 | ------- |
@@ -480,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Upandergarg/leethub/tree/master/0149-max-points-on-a-line) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Upandergarg/leethub/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
