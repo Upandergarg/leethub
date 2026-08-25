@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Upandergarg/leethub/tree/master/0002-add-two-numbers) |
+| [0149-max-points-on-a-line](https://github.com/Upandergarg/leethub/tree/master/0149-max-points-on-a-line) |
 | [0343-integer-break](https://github.com/Upandergarg/leethub/tree/master/0343-integer-break) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Upandergarg/leethub/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Upandergarg/leethub/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Upandergarg/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Upandergarg/leethub/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Upandergarg/leethub/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/Upandergarg/leethub/tree/master/0149-max-points-on-a-line) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Upandergarg/leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Upandergarg/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Upandergarg/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Upandergarg/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Upandergarg/leethub/tree/master/0130-surrounded-regions) |
+| [0149-max-points-on-a-line](https://github.com/Upandergarg/leethub/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Upandergarg/leethub/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Upandergarg/leethub/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Upandergarg/leethub/tree/master/0215-kth-largest-element-in-an-array) |
@@ -465,4 +468,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Upandergarg/leethub/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Upandergarg/leethub/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Upandergarg/leethub/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Upandergarg/leethub/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
