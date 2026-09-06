@@ -1,39 +1,52 @@
 class Solution {
-    void dfs(int node,  List<List<Integer>> adj,int [] vis){
-        vis[node]=1;
-        for(int it: adj.get(node)){
-            if(vis[it]==0){
-                dfs(it,adj,vis);
-            }
-        }
-    }
+    class disjointSet {
+		int []parent;
+		int [] rank;
+		public disjointSet(int v) {
+			parent = new int[v];
+			rank= new int[v];
+			for (int i = 0; i<v; i++) {
+				parent[i] = i;
+				rank[i] = 1;
+			}
+		}
+		int find(int n) {
+			if (parent[n] == n)
+				return n;
+			int ulp = find(parent[n]);
+			parent[n] = ulp;
+			return parent[n];
+		}
+		void union(int x, int y) {
+			int s1 = find(x);
+			int s2 = find(y);
+			if (s1 != s2) {
+				if (rank[s1] < rank[s2]) {
+					parent[s1] = s2;
+				} else if (rank[s1] > rank[s2]) {
+					parent[s2] = s1;
+				} else {
+					parent[s2] = s1;
+					rank[s1]++;
+				}
+			}
+		}
+	}
     public int findCircleNum(int[][] isConnected) {
-        List<List<Integer>> adj= new ArrayList<>();
-  
-        int n= isConnected.length;
-        for(int i=0; i<n; i++){
-            adj.add(new ArrayList<>());
-        }
+        int v= isConnected.length;
+        disjointSet ds= new disjointSet(v);
 
-        int m= isConnected[0].length;
-        for(int i=0; i<n; i++){
-            for(int j=0; j<m; j++){
-                if(isConnected[i][j]==1){
-                    adj.get(i).add(j);
-                    adj.get(j).add(i);
-                }
+       for(int i=0; i<v; i++){
+        for(int j=0; j<v; j++){
+            if(isConnected[i][j]==1){
+                ds.union(i,j);
             }
         }
-
-        int [] vis= new int[n];
-
-        int ans=0;
-        for(int i=0; i<adj.size(); i++){
-            if(vis[i]==0){
-                ans++;
-                dfs(i,adj,vis);
-            }
-        }
-        return ans;
+       }
+       int count=0;
+       for(int i=0; i<v; i++){
+        if(ds.find(i)==i)   count++;
+       }
+       return count;
     }
 }
