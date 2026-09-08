@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Upandergarg/leethub/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Upandergarg/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Upandergarg/leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Upandergarg/leethub/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Upandergarg/leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Upandergarg/leethub/tree/master/0802-find-eventual-safe-states) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Upandergarg/leethub/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Upandergarg/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Upandergarg/leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Upandergarg/leethub/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Upandergarg/leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Upandergarg/leethub/tree/master/0802-find-eventual-safe-states) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Upandergarg/leethub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Upandergarg/leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Upandergarg/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Upandergarg/leethub/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Upandergarg/leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1366-rank-teams-by-votes](https://github.com/Upandergarg/leethub/tree/master/1366-rank-teams-by-votes) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Upandergarg/leethub/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Upandergarg/leethub/tree/master/0014-longest-common-prefix) |
 | [0127-word-ladder](https://github.com/Upandergarg/leethub/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/Upandergarg/leethub/tree/master/0721-accounts-merge) |
 | [1189-maximum-number-of-balloons](https://github.com/Upandergarg/leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1366-rank-teams-by-votes](https://github.com/Upandergarg/leethub/tree/master/1366-rank-teams-by-votes) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Upandergarg/leethub/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Upandergarg/leethub/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Upandergarg/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Upandergarg/leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/Upandergarg/leethub/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Upandergarg/leethub/tree/master/1288-remove-covered-intervals) |
 | [1366-rank-teams-by-votes](https://github.com/Upandergarg/leethub/tree/master/1366-rank-teams-by-votes) |
@@ -276,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Upandergarg/leethub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0493-reverse-pairs](https://github.com/Upandergarg/leethub/tree/master/0493-reverse-pairs) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Upandergarg/leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/Upandergarg/leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Upandergarg/leethub/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Upandergarg/leethub/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Upandergarg/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -391,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Upandergarg/leethub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Upandergarg/leethub/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Upandergarg/leethub/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Upandergarg/leethub/tree/master/0721-accounts-merge) |
 | [1020-number-of-enclaves](https://github.com/Upandergarg/leethub/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Upandergarg/leethub/tree/master/1631-path-with-minimum-effort) |
 ## Binary Indexed Tree
