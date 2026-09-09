@@ -1,35 +1,57 @@
-class Solution {
-    void dfs(int i, int[] v, int[][] stones) {
-        if (v[i]==1)
-            return;
-        v[i] = 1;
+class Solution { 
+    class disjointSet {
+        int par[];
+        int rank[];
 
-        for (int j = 0; j < stones.length; j++) {
+        disjointSet(int v) {
+            par = new int[v];
+            rank = new int[v];
+            for (int i = 0; i < v; i++) {
+                par[i] = i;
+                rank[i] = 1;
+            }
+        }
 
-            // if another stone has same row or 
-            // column as this stone then both lie 
-            // in the same component
-            if (stones[i][0] == stones[j][0] || stones[i][1] == stones[j][1]) {
-                dfs(j, v, stones);
+        int find(int n) {
+            if (par[n] == n)
+                return n;
+            int ulp = find(par[n]);
+            par[n] = ulp;
+            return par[n];
+        }
+
+        void unionRank(int u,int v){
+            int ulp=find(u);
+            int vlp=find(v);
+            if(rank[ulp]>rank[vlp]) par[vlp]=ulp;
+            else if(rank[vlp]>rank[ulp]) par[ulp]=vlp;
+            else {
+                par[vlp]=ulp;
+                rank[ulp]++;
             }
         }
     }
+
 
     public int removeStones(int[][] stones) {
-        int n = stones.length;
-
-        int vis[] = new int[n];
-        int com = 0;
-        for (int i = 0; i < n; i++) {
-            if (vis[i] == 0) {
-                dfs(i, vis, stones);
-                com++;
+        int n= stones.length;
+        disjointSet ds= new disjointSet(n);
+// i, j is itereting over the stones array, and it represents a stone.
+        for(int i=0; i<n; i++){
+            for(int j=i+1; j<n; j++){
+                if(stones[i][0]==stones[j][0] || stones[i][1]==stones[j][1]){
+                    ds.unionRank(i,j);
+                }
             }
-
         }
-        return n - com;
+        //hashset to avaid duplicate ulp
+        HashSet<Integer> set= new HashSet<>();
+        
+        for(int i=0; i<n; i++){
+            if(i== ds.find(i)){
+                set.add(i);
+            }
+        }
+        return n-set.size();
     }
 }
-
-//using dfs it can be done, 
-// ans would be n-no of connectedComponents
