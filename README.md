@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Upandergarg/leethub/tree/master/0130-surrounded-regions) |
 | [0149-max-points-on-a-line](https://github.com/Upandergarg/leethub/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Upandergarg/leethub/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Upandergarg/leethub/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Upandergarg/leethub/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Upandergarg/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Upandergarg/leethub/tree/master/0380-insert-delete-getrandom-o1) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Upandergarg/leethub/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Upandergarg/leethub/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Upandergarg/leethub/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Upandergarg/leethub/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/Upandergarg/leethub/tree/master/0343-integer-break) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Upandergarg/leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Upandergarg/leethub/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
