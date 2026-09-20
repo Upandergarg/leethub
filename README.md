@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Upandergarg/leethub/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Upandergarg/leethub/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/Upandergarg/leethub/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Upandergarg/leethub/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Upandergarg/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Upandergarg/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Upandergarg/leethub/tree/master/0130-surrounded-regions) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Upandergarg/leethub/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Upandergarg/leethub/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Upandergarg/leethub/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Upandergarg/leethub/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Upandergarg/leethub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Upandergarg/leethub/tree/master/0198-house-robber) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Upandergarg/leethub/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/Upandergarg/leethub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Upandergarg/leethub/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Upandergarg/leethub/tree/master/0733-flood-fill) |
