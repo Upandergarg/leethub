@@ -8,10 +8,29 @@ class Solution {
         return dp[i][j]= left+up;
     }
     public int uniquePaths(int m, int n) {
-        int [][] dp= new int[m][n];
-        for(int []i: dp){
-            Arrays.fill(i,-1);
+        int [] prv= new int[n];
+       
+            Arrays.fill(prv,0);
+        
+        // return help(m-1,n-1,dp);
+
+        for(int i=0; i<m; i++){
+            int [] cur= new int[n];
+            for(int j=0; j<n; j++){
+                if(i==0 && j==0) cur[j]=1;
+                else{
+                   
+                    int up=0;
+                    int left=0;
+                    if(i>0) up+=prv[j];
+                    if(j>0) left+=cur[j-1];
+                    cur[j]= up+left;
+                     System.out.println(cur[j]);
+                }
+               
+            }
+             prv=cur;
         }
-        return help(m-1,n-1,dp);
+        return prv[n-1];
     }
 }
