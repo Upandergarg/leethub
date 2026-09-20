@@ -4,8 +4,7 @@ class Solution {
         int n=o[0].length;
         int m=o.length;
 
-        if(m==1 && n==1 && o[0][0]==0) return 1;
-          if(m==1 && n==1 && o[0][0]==1) return 0;
+    
           int [] prv= new int[n];
        
             Arrays.fill(prv,0);
