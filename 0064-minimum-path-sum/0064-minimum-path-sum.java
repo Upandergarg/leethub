@@ -11,25 +11,29 @@ class Solution {
         
         int n=grid.length;
         int m=grid[0].length;
-        int [][]dp= new int[n][m];
-       
+        // int [][]dp= new int[n][m];
+       int [] prv=new int[m];
         // return help(n-1,m-1,grid,dp);
-        dp[0][0]=grid[0][0];
+        prv[0]=grid[0][0];
         for(int i=0; i<n; i++){
+            int cur[]= new int [m];
             for(int j=0; j<m; j++){
-                 if (i == 0 && j == 0)
+                 if (i == 0 && j == 0){
+                    cur[0]= grid[0][0];
                 continue;
+                 }
                 int up = Integer.MAX_VALUE;
             int left = Integer.MAX_VALUE;
 
             if (i > 0)
-                up = dp[i - 1][j];
+                up = prv[j];
 
             if (j > 0)
-                left = dp[i][j - 1];
-                dp[i][j]= grid[i][j] + Math.min(up,left);
+                left = cur[j-1];
+            cur[j]= grid[i][j] + Math.min(up,left);
             }
+            prv=cur;
         }
-        return dp[n-1][m-1];
+        return prv[m-1];
     }
 }
