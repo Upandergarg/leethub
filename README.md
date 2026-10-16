@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Upandergarg/leethub/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1366-rank-teams-by-votes](https://github.com/Upandergarg/leethub/tree/master/1366-rank-teams-by-votes) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Upandergarg/leethub/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Upandergarg/leethub/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Upandergarg/leethub/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Upandergarg/leethub/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/Upandergarg/leethub/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Upandergarg/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Upandergarg/leethub/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Upandergarg/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Upandergarg/leethub/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Binary Search
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Upandergarg/leethub/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Upandergarg/leethub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Upandergarg/leethub/tree/master/1929-concatenation-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Upandergarg/leethub/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Upandergarg/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Upandergarg/leethub/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2354-number-of-excellent-pairs](https://github.com/Upandergarg/leethub/tree/master/2354-number-of-excellent-pairs) |
