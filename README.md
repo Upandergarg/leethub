@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Upandergarg/leethub/tree/master/0061-rotate-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Upandergarg/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Upandergarg/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Upandergarg/leethub/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Binary Search
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Upandergarg/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Upandergarg/leethub/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2354-number-of-excellent-pairs](https://github.com/Upandergarg/leethub/tree/master/2354-number-of-excellent-pairs) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Upandergarg/leethub/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2574-left-and-right-sum-differences](https://github.com/Upandergarg/leethub/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Upandergarg/leethub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Upandergarg/leethub/tree/master/3483-unique-3-digit-even-numbers) |
