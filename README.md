@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Upandergarg/leethub/tree/master/1631-path-with-minimum-effort) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Upandergarg/leethub/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Upandergarg/leethub/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Upandergarg/leethub/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Upandergarg/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Upandergarg/leethub/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2354-number-of-excellent-pairs](https://github.com/Upandergarg/leethub/tree/master/2354-number-of-excellent-pairs) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Upandergarg/leethub/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Upandergarg/leethub/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Upandergarg/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Trie
 |  |
