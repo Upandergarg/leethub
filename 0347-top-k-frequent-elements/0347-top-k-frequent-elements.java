@@ -1,5 +1,10 @@
 class Solution {
+    
     public int[] topKFrequent(int[] nums, int k) {
+
+        //did with hashing+sorting-> TC > O(NLOGN)
+        
+        //Bucket sort tc->  O(N)
         HashMap<Integer,Integer> map= new HashMap<>();
         for(int i=0; i<nums.length; i++){
             map.put(nums[i],map.getOrDefault(nums[i],0)+1);
