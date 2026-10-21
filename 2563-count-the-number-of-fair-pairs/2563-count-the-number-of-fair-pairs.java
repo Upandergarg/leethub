@@ -16,6 +16,11 @@ class Solution {
         return count;
     }
 
+
+//find numebrs indexs of numebrs in that range
+
+
+//first index where num is equla or greater than that lower
     int lowerBound(int[] nums, int start, int target) {
         int low = start, high = nums.length;
 
@@ -31,6 +36,7 @@ class Solution {
         return low;
     }
 
+//first  number where it is greater than upper
     int upperBound(int[] nums, int start, int target) {
         int low = start, high = nums.length;
 
