@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Upandergarg/leethub/tree/master/1288-remove-covered-intervals) |
 | [1366-rank-teams-by-votes](https://github.com/Upandergarg/leethub/tree/master/1366-rank-teams-by-votes) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Upandergarg/leethub/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Upandergarg/leethub/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Upandergarg/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Upandergarg/leethub/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Upandergarg/leethub/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Upandergarg/leethub/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/Upandergarg/leethub/tree/master/1631-path-with-minimum-effort) |
 | [2354-number-of-excellent-pairs](https://github.com/Upandergarg/leethub/tree/master/2354-number-of-excellent-pairs) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Upandergarg/leethub/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Upandergarg/leethub/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2354-number-of-excellent-pairs](https://github.com/Upandergarg/leethub/tree/master/2354-number-of-excellent-pairs) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Upandergarg/leethub/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Upandergarg/leethub/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/Upandergarg/leethub/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Upandergarg/leethub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Upandergarg/leethub/tree/master/3483-unique-3-digit-even-numbers) |
