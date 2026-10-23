@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Upandergarg/leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Upandergarg/leethub/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1366-rank-teams-by-votes](https://github.com/Upandergarg/leethub/tree/master/1366-rank-teams-by-votes) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Upandergarg/leethub/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Upandergarg/leethub/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Upandergarg/leethub/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Upandergarg/leethub/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Upandergarg/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Upandergarg/leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Upandergarg/leethub/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Upandergarg/leethub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
 |  |
