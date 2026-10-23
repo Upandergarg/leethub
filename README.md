@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Upandergarg/leethub/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/Upandergarg/leethub/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Upandergarg/leethub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Upandergarg/leethub/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Upandergarg/leethub/tree/master/0149-max-points-on-a-line) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Upandergarg/leethub/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Upandergarg/leethub/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Upandergarg/leethub/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Upandergarg/leethub/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/Upandergarg/leethub/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Upandergarg/leethub/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/Upandergarg/leethub/tree/master/0721-accounts-merge) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Upandergarg/leethub/tree/master/0043-multiply-strings) |
 | [1920-build-array-from-permutation](https://github.com/Upandergarg/leethub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Upandergarg/leethub/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Upandergarg/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
