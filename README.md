@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Upandergarg/leethub/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Upandergarg/leethub/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Upandergarg/leethub/tree/master/1631-path-with-minimum-effort) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Upandergarg/leethub/tree/master/2360-longest-cycle-in-a-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Upandergarg/leethub/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Upandergarg/leethub/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Upandergarg/leethub/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Upandergarg/leethub/tree/master/1631-path-with-minimum-effort) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Upandergarg/leethub/tree/master/2360-longest-cycle-in-a-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Upandergarg/leethub/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Hash Table
 |  |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/Upandergarg/leethub/tree/master/1192-critical-connections-in-a-network) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Upandergarg/leethub/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Upandergarg/leethub/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Upandergarg/leethub/tree/master/2360-longest-cycle-in-a-graph) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -555,14 +558,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Upandergarg/leethub/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Upandergarg/leethub/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Upandergarg/leethub/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Upandergarg/leethub/tree/master/2360-longest-cycle-in-a-graph) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Upandergarg/leethub/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Upandergarg/leethub/tree/master/2360-longest-cycle-in-a-graph) |
 ## Tarjan's SCC Algorithm
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Upandergarg/leethub/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Upandergarg/leethub/tree/master/2360-longest-cycle-in-a-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
