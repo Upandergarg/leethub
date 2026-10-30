@@ -1,4 +1,4 @@
-//using 3 satate bfs
+//using 3 satate dfs
 class Solution {
     public int longestCycle(int[] edges) {
 
