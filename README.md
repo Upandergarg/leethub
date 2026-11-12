@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Upandergarg/leethub/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Upandergarg/leethub/tree/master/0127-word-ladder) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Upandergarg/leethub/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0516-longest-palindromic-subsequence](https://github.com/Upandergarg/leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/Upandergarg/leethub/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Upandergarg/leethub/tree/master/0763-partition-labels) |
 | [1189-maximum-number-of-balloons](https://github.com/Upandergarg/leethub/tree/master/1189-maximum-number-of-balloons) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Upandergarg/leethub/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Upandergarg/leethub/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Upandergarg/leethub/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Upandergarg/leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0741-cherry-pickup](https://github.com/Upandergarg/leethub/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Upandergarg/leethub/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Upandergarg/leethub/tree/master/0787-cheapest-flights-within-k-stops) |
