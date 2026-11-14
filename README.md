@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Upandergarg/leethub/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/Upandergarg/leethub/tree/master/0044-wildcard-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Upandergarg/leethub/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Upandergarg/leethub/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Upandergarg/leethub/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Upandergarg/leethub/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Upandergarg/leethub/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Upandergarg/leethub/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Upandergarg/leethub/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Upandergarg/leethub/tree/master/0115-distinct-subsequences) |
@@ -391,12 +393,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Upandergarg/leethub/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Upandergarg/leethub/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Upandergarg/leethub/tree/master/0045-jump-game-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Upandergarg/leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0763-partition-labels](https://github.com/Upandergarg/leethub/tree/master/0763-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Upandergarg/leethub/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Upandergarg/leethub/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Upandergarg/leethub/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Upandergarg/leethub/tree/master/0063-unique-paths-ii) |
