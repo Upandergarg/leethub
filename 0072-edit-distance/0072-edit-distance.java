@@ -11,19 +11,20 @@ if(dp[i][j]!=0) return dp[i][j];
     public int minDistance(String w1, String w2) {
         int n=w1.length();
         int m=w2.length();
-        int [][]dp= new int[n+1][m+1];
-
+        int []prv= new int[m+1];
+ int []cur= new int[m+1];
         // return f(n-1,m-1,w1,w2,dp);
 
-        for(int i=0; i<=n; i++) dp[i][0]=i;
-        for(int j=0; j<=m; j++) dp[0][j]=j;
+        for(int j=0; j<=m; j++) prv[j]=j;
 
         for(int i=1; i<=n; i++){
+cur[0]=i;
             for(int j=1; j<=m; j++){
-                  if(w1.charAt(i-1)==w2.charAt(j-1))  dp[i][j]= dp[i-1][j-1];
-        else dp[i][j]= Math.min(1+dp[i][j-1],Math.min(1+dp[i-1][j],1+dp[i-1][j-1]));
+                  if(w1.charAt(i-1)==w2.charAt(j-1))  cur[j]= prv[j-1];
+        else cur[j]= Math.min(1+cur[j-1],Math.min(1+prv[j],1+prv[j-1]));
             }
+            prv=cur.clone();
         }
-        return dp[n][m];
+        return prv[m];
     }
 }
