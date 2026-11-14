@@ -1,33 +1,18 @@
 class Solution {
-    public int minDistance(String a, String b) {
-        int m = a.length(), n = b.length();
+    int f(int i,int j,String w1, String w2,int [][]dp){
+        
+        if(i<0) return j+1;
+        if(j<0) return i+1;
+if(dp[i][j]!=0) return dp[i][j];
+        if(w1.charAt(i)==w2.charAt(j)) return dp[i][j]= f(i-1,j-1,w1,w2,dp);
+        return dp[i][j]= Math.min(1+f(i,j-1,w1,w2,dp),Math.min(1+f(i-1,j,w1,w2,dp),1+f(i-1,j-1,w1,w2,dp)));
 
-        int[] prev = new int[n + 1];
-        int[] curr = new int[n + 1];
+    }
+    public int minDistance(String w1, String w2) {
+        int n=w1.length();
+        int m=w2.length();
+        int [][]dp= new int[n+1][m+1];
 
-        for (int j = 0; j <= n; j++)
-            prev[j] = j;
-
-        for (int i = 1; i <= m; i++) {
-            curr[0] = i;
-
-            for (int j = 1; j <= n; j++) {
-                if (a.charAt(i - 1) == b.charAt(j - 1)) {
-                    curr[j] = prev[j - 1];
-                } else {
-                    curr[j] = 1 + Math.min(
-                        curr[j - 1],       // Insert
-                        Math.min(
-                            prev[j],       // Delete
-                            prev[j - 1]     // Replace
-                        )
-                    );
-                }
-            }
-
-            prev = curr.clone();
-        }
-
-        return prev[n];
+        return f(n-1,m-1,w1,w2,dp);
     }
 }
