@@ -1,19 +1,16 @@
 class Solution {
     public int maxProfit(int k, int[] prices) {
-           int n = prices.length;
-        int[][] dp = new int[prices.length+1][2*k+1];
-        
-        // return f(0,1,prices,dp);
+          int n = prices.length;
+        int[] dp = new int[2*k+1]; // Replaces int[n + 1][5]
 
-      
-        for (int i = n-1; i >=0; i--) {
-            for (int b = 0; b <2*k; b++) {
-                if (b%2 == 0)
-                    dp[i][b] = Math.max(-prices[i] + dp[i + 1][ b+1] , dp[i + 1][ b]);
+        for (int i = n - 1; i >= 0; i--) {
+            for (int b = 0; b <(2*k); b++) {
+                if (b % 2 == 0)
+                    dp[b] = Math.max(-prices[i] + dp[b + 1], dp[b]);
                 else
-                    dp[i][b] = Math.max(prices[i] + dp[i + 1] [b+1] , dp[i + 1] [b] );
+                    dp[b] = Math.max(prices[i] + dp[b + 1], dp[b]);
             }
         }
-        return dp[0][0];
+        return dp[0];
     }
 }
