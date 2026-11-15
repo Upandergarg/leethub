@@ -1,18 +1,16 @@
 class Solution {
     public int maxProfit(int[] prices) {
         int n = prices.length;
-        int[] ahead = new int[5];
-        int[] cur = new int[5];
+        int[] dp = new int[5]; // Replaces int[n + 1][5]
 
         for (int i = n - 1; i >= 0; i--) {
             for (int b = 0; b < 4; b++) {
                 if (b % 2 == 0)
-                    cur[b] = Math.max(-prices[i] + ahead[b + 1], ahead[b]);
+                    dp[b] = Math.max(-prices[i] + dp[b + 1], dp[b]);
                 else
-                    cur[b] = Math.max(prices[i] + ahead[b + 1], ahead[b]);
+                    dp[b] = Math.max(prices[i] + dp[b + 1], dp[b]);
             }
-            ahead = cur.clone(); // Or swap references
         }
-        return ahead[0];
+        return dp[0];
     }
 }
