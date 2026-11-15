@@ -31,6 +31,6 @@ class Solution {
             a1=b1;
             a2=b2;
         }
-        return b2;
+        return a2;
     }
 }
