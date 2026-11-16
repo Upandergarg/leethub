@@ -25,9 +25,15 @@ class Solution {
         return low;
     }
     public int lengthOfLIS(int[] nums) {
+
+
+//recursion || memo
+        
         // return f(0,-1,nums);
 // int n= nums.length;
 // int [][]dp= new int[n+1][n+1];
+
+////////////////////////////////////////tabu 2d
 
 // for(int i=n-1; i>=0; i--){
 //     for(int p=i-1; p>=-1; p--){
@@ -40,6 +46,10 @@ class Solution {
 //     }
 // }
 // return dp[0][0];
+
+
+
+///////////////////////////////////////////tabu 1d
 
 // int n= nums.length;
 // int []dp= new int[n];
@@ -55,6 +65,8 @@ class Solution {
 //     len= Math.max(dp[i],len);
 // }
 // return len;
+
+//////////////////////////////////////////////best mothod
 
     ArrayList<Integer> temp = new ArrayList<>();
 
