@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Upandergarg/leethub/tree/master/0763-partition-labels) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Upandergarg/leethub/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/Upandergarg/leethub/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/Upandergarg/leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1366-rank-teams-by-votes](https://github.com/Upandergarg/leethub/tree/master/1366-rank-teams-by-votes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Upandergarg/leethub/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Upandergarg/leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/Upandergarg/leethub/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Upandergarg/leethub/tree/master/0763-partition-labels) |
+| [1048-longest-string-chain](https://github.com/Upandergarg/leethub/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Upandergarg/leethub/tree/master/1092-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Upandergarg/leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Upandergarg/leethub/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Upandergarg/leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/Upandergarg/leethub/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/Upandergarg/leethub/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Upandergarg/leethub/tree/master/1288-remove-covered-intervals) |
 | [1366-rank-teams-by-votes](https://github.com/Upandergarg/leethub/tree/master/1366-rank-teams-by-votes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Upandergarg/leethub/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Upandergarg/leethub/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Upandergarg/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/Upandergarg/leethub/tree/master/0763-partition-labels) |
+| [1048-longest-string-chain](https://github.com/Upandergarg/leethub/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Upandergarg/leethub/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Upandergarg/leethub/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Upandergarg/leethub/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Upandergarg/leethub/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Upandergarg/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Upandergarg/leethub/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/Upandergarg/leethub/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Upandergarg/leethub/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Upandergarg/leethub/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1254-number-of-closed-islands](https://github.com/Upandergarg/leethub/tree/master/1254-number-of-closed-islands) |
@@ -438,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Upandergarg/leethub/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Upandergarg/leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Upandergarg/leethub/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/Upandergarg/leethub/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Upandergarg/leethub/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Upandergarg/leethub/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Upandergarg/leethub/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
