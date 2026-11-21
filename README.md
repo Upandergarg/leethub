@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Upandergarg/leethub/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Upandergarg/leethub/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Upandergarg/leethub/tree/master/0044-wildcard-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Upandergarg/leethub/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Upandergarg/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Upandergarg/leethub/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Upandergarg/leethub/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Upandergarg/leethub/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Upandergarg/leethub/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Upandergarg/leethub/tree/master/0043-multiply-strings) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Upandergarg/leethub/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Upandergarg/leethub/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Upandergarg/leethub/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Upandergarg/leethub/tree/master/0062-unique-paths) |
