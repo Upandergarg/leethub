@@ -1,42 +1,40 @@
 
 class Solution {
-    int[][] dp;
-
     public boolean isMatch(String s, String p) {
-        dp = new int[s.length()+1][p.length()+1];
-        for (int[] row : dp) Arrays.fill(row, -1);
 
-        return solve(s, p, s.length() - 1, p.length() - 1);
-    }
+        int n = s.length();
+        int m = p.length();
 
-    boolean solve(String s, String p, int i, int j) {
+        boolean[][] dp = new boolean[n + 1][m + 1];
 
-        if (i < 0 && j < 0) return true;
-        if (j < 0) return false;
+        dp[0][0] = true;
 
-        if (dp[i + 1][j + 1] != -1)
-            return dp[i + 1][j + 1] == 1;
-
-        boolean ans = false;
-
-        if (i < 0) {
-            if (p.charAt(j) == '*')
-                ans = solve(s, p, i, j - 2);
-        }
-        else if (p.charAt(j) == '*') {
-            boolean zero = solve(s, p, i, j - 2);
-
-            boolean more = false;
-            if (p.charAt(j - 1) == '.' || p.charAt(j - 1) == s.charAt(i))
-                more = solve(s, p, i - 1, j);
-
-            ans = zero || more;
-        }
-        else if (s.charAt(i) == p.charAt(j) || p.charAt(j) == '.') {
-            ans = solve(s, p, i - 1, j - 1);
+        for (int j = 2; j <= m; j++) {
+            if (p.charAt(j - 1) == '*')
+                dp[0][j] = dp[0][j - 2];
         }
 
-        dp[i + 1][j + 1] = ans ? 1 : 0;
-        return ans;
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= m; j++) {
+
+                if (p.charAt(j - 1) == '*') {
+
+                    boolean zero = dp[i][j - 2];
+
+                    boolean more = false;
+
+                    if (p.charAt(j - 2) == '.' || p.charAt(j - 2) == s.charAt(i - 1)) {
+                        more = dp[i - 1][j];
+                    }
+
+                    dp[i][j] = zero || more;
+                }
+                else if (s.charAt(i - 1) == p.charAt(j - 1) || p.charAt(j - 1) == '.') {
+                    dp[i][j] = dp[i - 1][j - 1];
+                }
+            }
+        }
+
+        return dp[n][m];
     }
 }
