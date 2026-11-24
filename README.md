@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Upandergarg/leethub/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Upandergarg/leethub/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/Upandergarg/leethub/tree/master/0827-making-a-large-island) |
+| [0867-transpose-matrix](https://github.com/Upandergarg/leethub/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Upandergarg/leethub/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/Upandergarg/leethub/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Upandergarg/leethub/tree/master/0994-rotting-oranges) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Upandergarg/leethub/tree/master/0043-multiply-strings) |
+| [0867-transpose-matrix](https://github.com/Upandergarg/leethub/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Upandergarg/leethub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Upandergarg/leethub/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Upandergarg/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Upandergarg/leethub/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/Upandergarg/leethub/tree/master/0741-cherry-pickup) |
 | [0827-making-a-large-island](https://github.com/Upandergarg/leethub/tree/master/0827-making-a-large-island) |
+| [0867-transpose-matrix](https://github.com/Upandergarg/leethub/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Upandergarg/leethub/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Upandergarg/leethub/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Upandergarg/leethub/tree/master/1020-number-of-enclaves) |
