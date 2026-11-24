@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Upandergarg/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Upandergarg/leethub/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Upandergarg/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Upandergarg/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Upandergarg/leethub/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Upandergarg/leethub/tree/master/0128-longest-consecutive-sequence) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Upandergarg/leethub/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Upandergarg/leethub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Upandergarg/leethub/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Upandergarg/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Upandergarg/leethub/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Upandergarg/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Upandergarg/leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Upandergarg/leethub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Upandergarg/leethub/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Upandergarg/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Upandergarg/leethub/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Upandergarg/leethub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Upandergarg/leethub/tree/master/0200-number-of-islands) |
