@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Upandergarg/leethub/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Upandergarg/leethub/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Upandergarg/leethub/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Upandergarg/leethub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Upandergarg/leethub/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Upandergarg/leethub/tree/master/0149-max-points-on-a-line) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Upandergarg/leethub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Upandergarg/leethub/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Upandergarg/leethub/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Upandergarg/leethub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Upandergarg/leethub/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Upandergarg/leethub/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Upandergarg/leethub/tree/master/0063-unique-paths-ii) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Upandergarg/leethub/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Upandergarg/leethub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Upandergarg/leethub/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Upandergarg/leethub/tree/master/0073-set-matrix-zeroes) |
