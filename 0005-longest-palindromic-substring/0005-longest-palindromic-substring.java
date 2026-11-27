@@ -1,70 +1,42 @@
-// class Solution {
-//     int[][] dp;
+//Center approach
 
-//     boolean isPal(String s, int i, int j) {
-//         if (i >= j) return true;
-
-//         if (dp[i][j] != -1)
-//             return dp[i][j] == 1;
-
-//         if (s.charAt(i) != s.charAt(j))
-//             return (dp[i][j] = 0) == 1;
-
-//         return (dp[i][j] = isPal(s, i + 1, j - 1) ? 1 : 0) == 1;
-//     }
-
-//     public String longestPalindrome(String s) {
-//         int n = s.length();
-//         dp = new int[n][n];
-
-//         for (int[] row : dp)
-//             Arrays.fill(row, -1);
-
-//         int maxLen = 0, start = 0;
-
-//         for (int i = 0; i < n; i++) {
-//             for (int j = i; j < n; j++) {
-//                 if (isPal(s, i, j) && j - i + 1 > maxLen) {
-//                     maxLen = j - i + 1;
-//                     start = i;
-//                 }
-//             }
-//         }
-
-//         return s.substring(start, start + maxLen);
-//     }
-// }
-
+//move in opp dirrect
+//for even -> go for i,i+1
+//for odd -> go for i,i
 
 class Solution {
     public String longestPalindrome(String s) {
-        int n = s.length();
-        boolean[][] dp = new boolean[n][n];
+        int start = 0, maxLen = 0;
 
-        int maxLen = 1;
-        int start = 0;
+        for (int i = 0; i < s.length(); i++) {
 
-        // Single characters
-        for (int i = 0; i < n; i++) {
-            dp[i][i] = true;
-        }
+            // Odd length
+            int l = i, r = i;
 
-        // Increasing substring length
-        for (int len = 2; len <= n; len++) {
-            for (int i = 0; i + len <= n; i++) {
+            while (l >= 0 && r < s.length() &&
+                   s.charAt(l) == s.charAt(r)) {
+                l--;
+                r++;
+            }
 
-                int j = i + len - 1;
+            if (r - l - 1 > maxLen) {
+                maxLen = r - l - 1;
+                start = l + 1;
+            }
 
-                if (s.charAt(i) == s.charAt(j)) {
-                    if (len == 2 || dp[i + 1][j - 1]) {
-                        dp[i][j] = true;
+            // Even length
+            l = i;
+            r = i + 1;
 
-                        if (len > maxLen) {
-                            maxLen = len;
-                            start = i;
-                        }
-                    }
-                }
+            while (l >= 0 && r < s.length() &&
+                   s.charAt(l) == s.charAt(r)) {
+                l--;
+                r++;
+            }
+
+            if (r - l - 1 > maxLen) {
+                maxLen = r - l - 1;
+                start = l + 1;
             }
         }
 
