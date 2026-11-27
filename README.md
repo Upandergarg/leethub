@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Upandergarg/leethub/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Upandergarg/leethub/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Upandergarg/leethub/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Upandergarg/leethub/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Upandergarg/leethub/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
 |  |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Upandergarg/leethub/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Upandergarg/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Upandergarg/leethub/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Upandergarg/leethub/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2354-number-of-excellent-pairs](https://github.com/Upandergarg/leethub/tree/master/2354-number-of-excellent-pairs) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Upandergarg/leethub/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Upandergarg/leethub/tree/master/2563-count-the-number-of-fair-pairs) |
