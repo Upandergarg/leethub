@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Upandergarg/leethub/tree/master/0763-partition-labels) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Upandergarg/leethub/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Upandergarg/leethub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/Upandergarg/leethub/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/Upandergarg/leethub/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/Upandergarg/leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1366-rank-teams-by-votes](https://github.com/Upandergarg/leethub/tree/master/1366-rank-teams-by-votes) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Upandergarg/leethub/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/Upandergarg/leethub/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Upandergarg/leethub/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/Upandergarg/leethub/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Upandergarg/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Upandergarg/leethub/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Upandergarg/leethub/tree/master/1043-partition-array-for-maximum-sum) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Upandergarg/leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Upandergarg/leethub/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Upandergarg/leethub/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0997-find-the-town-judge](https://github.com/Upandergarg/leethub/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/Upandergarg/leethub/tree/master/1192-critical-connections-in-a-network) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Upandergarg/leethub/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Upandergarg/leethub/tree/master/1976-number-of-ways-to-arrive-at-destination) |
